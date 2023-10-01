@@ -1,0 +1,13 @@
+Some handy scripts written by @jsm2334
+
+Just run:
+
+$ R -file cancer.r
+
+And then look at the graphs it lots
+
+and:
+
+$ R -file excess_deaths.r
+
+They download stuff from CDC.
